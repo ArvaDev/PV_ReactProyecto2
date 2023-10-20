@@ -1,0 +1,17 @@
+.comp{
+    width: 80%;
+    border: none;
+    margin: 0 0 20px 0;
+}
+.btn{
+    height: 40px;
+    background: #558ab7;
+    color: white;
+}
+.int{
+    height: 30px;
+    outline: none;
+    border-bottom: solid 2px #558ab7;
+    background: #dcdcdc;
+    border-radius: 5px;
+}

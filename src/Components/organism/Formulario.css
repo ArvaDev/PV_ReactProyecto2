@@ -1,0 +1,9 @@
+.FormContainer{
+    text-align: center;
+    width: 25%;
+    background: #ffffff;
+    color: rgb(16, 16, 16);
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px 0px #818181;
+}
